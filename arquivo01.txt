@@ -1,6 +1,12 @@
 
 Uma 3ª linha de código
 
+Hello World!!!
+
+Uma terceira linha de código.
+
+Uma linha no meio.
+
 Alteração criada no dev
 
 Forçando conflito!
