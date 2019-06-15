@@ -1,14 +1,16 @@
 
-Uma 3ª linha de código
+Uma 3Âª linha de cÃ³digo
 
 Hello World!!!
 
-Uma terceira linha de código.
+Uma terceira linha de cÃ³digo.
 
 Uma linha no meio.
 
-Alteração criada no dev
+AlteraÃ§Ã£o criada no dev
 
-Forçando conflito!
+ForÃ§ando conflito!
 
 Modificando pra testar github
+
+keepass gera senhas diferentes para vocÃª
