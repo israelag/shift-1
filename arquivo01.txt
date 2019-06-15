@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+=======
+Hello World
+
+Uma terceira linha de código
+>>>>>>> parent of e8f1772... Revert "Terceira linha de cÃ³digo no arquivo01"
